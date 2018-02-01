@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fiqri/AndroidStudioProjects/MVP/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/fiqri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/44d730e7d2a33149a26c81b0f8393411/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/syntax/AndroidStudioProjects/MVP/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/syntax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2ea00800ccdd15e06c3d8e24cf0035d4/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
